@@ -6,4 +6,16 @@ body{
 	font-size: 22px;
 	padding: 0px;
 	width: 800px;
+	margin: 0 auto;
+}
+
+div{
+	background-color: #003399;
+}
+
+h1{
+    color: white;
+    font-size: 20px;
+    font-size: 50px;
+    font-style: normal; 
 }
