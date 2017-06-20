@@ -1,1 +1,9 @@
-
+body{
+	background-color:#ff99ff;
+	background-position: center;
+	font-family: 'Courier', sans-serif;
+	text-align: center;
+	font-size: 22px;
+	padding: 0px;
+	width: 800px;
+}
