@@ -13,7 +13,7 @@ p{
   font-size: 12px;
   font-style: normal;
   font-family: 'Verdana', Sans-serif; 
-
+}
 div{
 	background-color: #ffffff;
 }
@@ -29,8 +29,8 @@ h3{
     color: red;
     font-size: 10px;
     font-size: 40px;
-    font-style: 'Verdana', Sans-serif;
-
+    font-style: normal;
+}
 
 th{
   text-align: center;
@@ -47,7 +47,7 @@ td{
   font-family: 'Courier', Monospace;
   font-size: 14px;
   text-align: center;
-  background-color: solid white;
+  background-color: white;
   padding:10px;
 }
 
