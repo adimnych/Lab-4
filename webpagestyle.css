@@ -9,6 +9,10 @@ body{
 	margin: 0 auto;
 }
 
+img{
+	width: 50%;
+}
+
 p{
   font-size: 12px;
   font-style: normal;
