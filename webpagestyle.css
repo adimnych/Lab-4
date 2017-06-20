@@ -9,8 +9,13 @@ body{
 	margin: 0 auto;
 }
 
+p{
+  font-size: 12px;
+  font-style: normal;
+  font-family: 'Verdana', Sans-serif; 
+
 div{
-	background-color: #ffffff;
+	background-color: ##66ff99;
 }
 
 h1{
@@ -20,6 +25,11 @@ h1{
     font-style: normal; 
 
 }
+h3{
+    color: red;
+    font-size: 10px;
+    font-size: 40px;
+    font-style: 'Verdana', Sans-serif;
 
 
 th{
