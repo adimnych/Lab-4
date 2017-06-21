@@ -10,7 +10,7 @@ body{
 }
 
 img{
-	width: 70%;
+	width: 50%;
 }
 
 p{
@@ -43,7 +43,7 @@ th{
   font-size: 18px;
   height: 60px;
   padding: 15px;
-  background-color: #ffcccc
+  background-color: #ffcccc;
 }
 
 td{
